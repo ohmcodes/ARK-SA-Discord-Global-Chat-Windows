@@ -1,5 +1,11 @@
-# V2.0.0
+# V1.0.1
 
+
+
+
+# V1.0.0
+
+- Initial Release
 - RCON connection bug fixed
 - Fields tab stops
 - Run On Startup
@@ -13,8 +19,3 @@
 - Sample chat output so user can see it before sending
 - Added Chatmode this command will be sent when someone chat on discord
 - Added Updater.exe
-
-
-# V1.0.0
-
-- Initial Release
