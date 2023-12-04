@@ -1,7 +1,7 @@
 # V1.0.1
-
-
-
+- Test Updater
+- Changelogs view
+- logging revision (logs delete function)
 
 # V1.0.0
 
