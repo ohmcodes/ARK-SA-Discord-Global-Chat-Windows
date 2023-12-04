@@ -1,3 +1,9 @@
+# V1.2.1
+- release usuable for public
+
+# V1.1.1
+- minor fix for Updater
+
 # V1.0.1
 - Test Updater
 - Changelogs view
