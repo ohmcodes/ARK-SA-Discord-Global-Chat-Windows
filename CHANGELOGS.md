@@ -1,3 +1,8 @@
+# V1.2.2
+- rev channelID bug
+- paypal and discord image fixed
+- discord connection bug fixed
+
 # V1.2.1
 - release usuable for public
 
