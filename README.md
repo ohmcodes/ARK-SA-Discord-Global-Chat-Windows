@@ -6,6 +6,9 @@ ARK:SA Discord GLobal Chat Windows application
 - Able to send Message within the app and relay both In-game and Discord channel
 - Able to receive messages from Discord and In-game chat
 - VIP Colorations (If you have VIP players they can choose their own color to appear in game) WIP
+- Automatic updater
+- Multimaps relay (soon)
+
 
 # Sample Config file
 This config file will automatically generated
@@ -17,6 +20,9 @@ This config file will automatically generated
   "GuildID": discord_server_id,
   "ChannelID": discord_channel,
   "BotToken": bot_token,
+  "AutoConnectBot": autoconnect_when_starting_the_app,
+  "Mapname": identifier_which_map_chat,
+  "Discord": identifier_for_discord_chat,
   "Sender": your_admin_name,
   "Prefix": this_will_show_before_name,
   "Suffix": this_will_show_after_the_message,
@@ -26,8 +32,6 @@ This config file will automatically generated
   "RunOnStartup": run_when_windows_starts
 }
 ```
-
-
 
 # More Features to come!
 - This will be migrated to my on going project ASASM
