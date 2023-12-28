@@ -1,4 +1,4 @@
-# ARK-SA-Discord-Global-Chat-Windows
+# ARKTools.DiscordGlobalChatx64
 ARK:SA Discord GLobal Chat Windows application 
 
 # Features
